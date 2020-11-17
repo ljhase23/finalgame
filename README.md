@@ -1,6 +1,6 @@
 # 거버넌스
 ---
-<img src = Governance.jpg height=150 width=800>
+<img src = Governance.jpg height=300 width=800>
 
 #### 개요
 
